@@ -1,0 +1,17 @@
+img{
+    height: 400px;
+    width: 400px;
+
+}
+button{
+    font-style:italic;
+    font-weight:bolder;
+    margin-left: 48%;
+    box-shadow: 5px 5px 50px rgb(5, 132, 252);
+
+}
+body{
+    background:linear-gradient(190deg,rgb(255, 255, 255),rgb(252, 244, 176),rgb(241, 157, 175));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
